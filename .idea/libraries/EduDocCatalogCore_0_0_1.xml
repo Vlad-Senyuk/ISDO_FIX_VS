@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EduDocCatalogCore-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EduDocCatalogCore/target/EduDocCatalogCore-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
